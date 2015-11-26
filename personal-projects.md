@@ -15,7 +15,7 @@ Data Cleaning and features:
   - D3 JS graph: a d3 js graph shows the nodes present in the Network aka visualization.
 
 The output of the whole run is present in output.txt. The js files read by the index.html form automatically in the folder called js viz. nodes_150.txt and nodes_all.txt. There's corresponding SVG(scalable vector graphics) files for the two visualization. The 150 people are read from : folder.people.properties.
-  - [nodes_150](https://github.com/dixitk13/personal-projects/blob/master/EnronDataMining/js/edges_150.svg) : shows the interaction between the 150 nodes only.
+  - [nodes_150](https://github.com/dixitk13/personal-projects/blob/master/EnronDataMining/js/edges_150.svg) : shows the interaction between the 150 nodes only.[[-]](https://raw.github.com/dixitk13/readmes.md/blob/master/enron_150_nodes.jpg)
   - [nodes_all](https://github.com/dixitk13/personal-projects/blob/master/EnronDataMining/js/edges_all.svg) : shows the interaction between all the nodes - 16k people.
 
 Graph Algorithms implemented: 
