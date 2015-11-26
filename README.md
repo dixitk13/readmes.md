@@ -1,6 +1,6 @@
 # readmes
 
-This repository consists of all the readme files, because the repositories are private ;-) 
+This repository consists of all the readme files, because the repositories are private :wink:
 
 [information-retrieval](https://github.com/dixitk13/readmes.md/blob/master/information-retrieval.md)
 
