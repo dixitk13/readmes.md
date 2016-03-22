@@ -12,6 +12,8 @@ This repository consists of all the readme files, because the repositories are p
 
 [computer-systems](https://github.com/dixitk13/readmes.md/blob/master/computer-systems.md)
 
+[parallel-data-processing](https://github.com/dixitk13/readmes.md/blob/master/parallel-data-processing.md)
+
 ![word_cloud](https://github.com/dixitk13/readmes.md/blob/master/word_cloud.jpg)
 
 created using : [Dillinger](http://dillinger.io/) [Wordle](http://www.wordle.net/)
