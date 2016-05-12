@@ -12,6 +12,10 @@ This repository consists of all the readme files, because the repositories are p
 
 [computer-systems](https://github.com/dixitk13/readmes.md/blob/master/computer-systems.md)
 
+[fault-tolerant-dmtcp](https://github.com/dixitk13/readmes.md/blob/master/fault-tolerant-dmtcp.md)
+
+[own-parallel-data-processing-framework](https://github.com/dixitk13/readmes.md/blob/master/own-parallel-data-processing-framework.md)
+
 [parallel-data-processing](https://github.com/dixitk13/readmes.md/blob/master/parallel-data-processing.md)
 
 [parallel-data-processing-in-class](https://github.com/dixitk13/readmes.md/blob/master/parallel-data-processing-in-class.md)
