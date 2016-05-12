@@ -54,4 +54,10 @@ A Malloc library that provides the following dynamic memory allocation
 - Implements [Malloc Hooks](http://www.gnu.org/software/libc/manual/html_node/Hooks-for-Malloc.html)
 - Includes a test threads program which is called by default make target in the makefile
 
+### [Master-Boss ThreadPool System ](https://github.com/dixitk13/computer-systems/blob/master/boss-worker/boss-slave.c)[ [-](http://www.ccs.neu.edu/home/kapil/courses/cs5600/hw5.html) ]
+A Multi-threaded boss-worker example. In this the boss add works in the worker Q and the worker picks up those and starts processing and puts the item in the master queue. After processing the master collects and displays the answer of the exponential function. Its similar to the master-worker architecture except that it uses a threadpool this time.
+
+The makefile has targets testing.
+
+
 created using : [Dillinger](http://dillinger.io/)
