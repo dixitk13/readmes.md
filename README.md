@@ -8,7 +8,9 @@ This repository consists of all the readme files, because the repositories are p
 
 [data-mining-techniques](https://github.com/dixitk13/readmes.md/blob/master/data-mining-techniques.md)
 
-[personal-projects](https://github.com/dixitk13/readmes.md/blob/master/personal-projects.md)
+[yelp-time-series-analysis](https://github.com/dixitk13/readmes.md/blob/master/yelp-time-series-analysis.md)
+
+[enron-social-graph-mining](https://github.com/dixitk13/readmes.md/blob/master/personal-projects.md)
 
 [computer-systems](https://github.com/dixitk13/readmes.md/blob/master/computer-systems.md)
 
